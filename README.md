@@ -7,7 +7,7 @@ I have recently begun an epic search for jobs. There are ample places to find jo
 Any good hiring process (for me) must meet the following criteria;
 
 1. Must be documented (this is the most important thing). If it isn't documented you have no idea what you are getting into before you go for the job.
-2. Remote friendly. This doesn't remote only. It means I can get 90% of my work done via Slack and GitHub. It means no meetings. It means an asynchronous communication process that doesn't forcibly interfere with flow. It means a flexible schedule that doesn't have you coding yourself into an early grave.
+2. Remote friendly. This doesn't mean remote only. It means I can get 90% of my work done via Slack and GitHub. It means no meetings. It means an asynchronous communication process that doesn't forcibly interfere with flow. It means a flexible schedule that doesn't have you coding yourself into an early grave.
 3. It must be accepting and friendly. This is very subjective but there are red flags that one can look for.
 4. It must evaluate candidates using a candidate friendly process, ideally a paid trial run that evaluates the candidate's ability to actually do the job. A friendly process doesn't mean no whiteboarding, it just means no whiteboarding for things like frontend dev. Whiteboarding should be for evaluating programmers that have to actually write algorithms.
 
