@@ -49,8 +49,8 @@ Their hiring process is not documented on their site but I went through the hiri
 
 Couldn't find any details about this company. But their HN job post mentions a paid trial.
 
-[DuckDuckGo](https://duck.co/help/company/hiring)
-[Automattic](https://automattic.com/work-with-us/)
+- [DuckDuckGo](https://duck.co/help/company/hiring)
+- [Automattic](https://automattic.com/work-with-us/)
 
 ## Possibly Good
 
