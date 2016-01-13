@@ -1,6 +1,6 @@
 # Places That Have a Good Hiring Process
 
-I have recently begun an epic search for jobs. There are ample places to find job listings but there are no resources that list places with a good hiring process. This is a definitely not objective list of places with a good hiring process.
+I have recently begun an epic search for jobs. There are ample places to find job listings but there are no resources that list places with a good hiring process. What follows is a very rough and very *subjective* list of places that have a hiring process I find likable
 
 ## The Criteria
 
@@ -49,7 +49,7 @@ Their hiring process is not documented on their site but I went through the hiri
 
 Couldn't find any details about this company. But their HN job post mentions a paid trial.
 
-And the already mention;
+And the already mentioned;
 
 - [DuckDuckGo](https://duck.co/help/company/hiring)
 - [Automattic](https://automattic.com/work-with-us/)
@@ -71,5 +71,8 @@ I haven't included by any means all the companies out there with good hiring pro
 1. https://github.com/jessicard/remote-jobs
 2. https://weworkremotely.com/
 3. HN Who's Hiring Threads. There is a site that compiles them http://hnhiring.me/
+4. [Glassdoor](https://www.glassdoor.com). For most of the larger tech companies you can head over to Glassdoor read experiences from those who went through the process.
 
-Contributions to this list are welcome!
+## Contributions
+
+Contributions to this list are welcome! This is a subjective list of places with a good hiring process; it reflects what I find pleasant and desirable in a hiring process. That said, it is my hope for it to be useful to others, so I'm happy to accept pull requests and issues!
