@@ -1,6 +1,6 @@
 # Places That Have a Good Hiring Process
 
-I have recently begun an epic search for jobs. There are ample places to find job listings but there are no resources that list places with a good hiring process. What follows is a very rough and very *subjective* list of places that have a hiring process I find likable
+I have recently begun an epic search for a job. There are ample places to find job listings but there are no resources that list places with a good hiring process. What follows is a very rough and very *subjective* list of places that have a hiring process I find likable
 
 ## The Criteria
 
