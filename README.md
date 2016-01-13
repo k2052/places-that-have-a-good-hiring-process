@@ -71,7 +71,7 @@ I haven't included by any means all the companies out there with good hiring pro
 1. https://github.com/jessicard/remote-jobs
 2. https://weworkremotely.com/
 3. HN Who's Hiring Threads. There is a site that compiles them http://hnhiring.me/
-4. [Glassdoor](https://www.glassdoor.com). For most of the larger tech companies you can head over to Glassdoor read experiences from those who went through the process.
+4. [Glassdoor](https://www.glassdoor.com). For most of the larger tech companies you can head over to Glassdoor and read experiences from those who went through the process.
 
 ## Contributions
 
