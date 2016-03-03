@@ -6,7 +6,7 @@ I have recently begun an epic search for a job. There are ample places to find j
 
 Any good hiring process (for me) must meet the following criteria;
 
-1. Must be documented (this is the most important thing). If it isn't documented you have no idea what you are getting into before you go for the job.
+1. Should be documented (this is the most important thing). If it isn't documented you have no idea what you are getting into before you go for the job.
 2. Remote friendly. This doesn't mean remote only. It means I can get 90% of my work done via Slack and GitHub. It means no meetings. It means an asynchronous communication process that doesn't forcibly interfere with flow. It means a flexible schedule that doesn't have you coding yourself into an early grave.
 3. It must be accepting and friendly. This is very subjective but there are red flags that one can look for.
 4. It must evaluate candidates using a candidate friendly process, ideally a paid trial run that evaluates the candidate's ability to actually do the job. A friendly process doesn't mean no whiteboarding, it just means no whiteboarding for things like frontend dev. Whiteboarding should be for evaluating programmers that have to actually write algorithms.
@@ -15,7 +15,7 @@ And ideally;
 
 1. Has a documented intent to hire well. If a company has made an attempt to document and blog about their hiring process, blog about what is like to work there etc; then that is indicative they care about hiring.
 
-## Good Culture
+## Places With a Documented Hiring Process
 
 [Clef](https://getclef.com/about/#opportunities)
 
@@ -26,8 +26,11 @@ Clef has an [open employee handbook](https://github.com/clef/handbook) and have 
 Buffer is the one that did the open hiring process thing long before it was cool. Even the salaries at Buffer are open. I don't know anyone at Buffer but a company that cares this much about hiring has got to be better than most.
 
 [18f](https://pages.18f.gov/joining-18f/)
+[DuckDuckGo](https://duck.co/help/company/hiring)
+[Automattic](https://automattic.com/work-with-us/)
+[Compose](https://compose.io/jobs)
 
-## Very Remote friendly
+## Places That are Very Remote Friendly
 
 The following companies are very remote centric. They are great for candidates needing to work anywhere. They are also well suited to humans with issues that might make working in an office environment difficult.
 
@@ -37,7 +40,7 @@ Automattic is well known for their CEO taking an active interest in hiring. Your
 
 [DuckDuckGo](https://duck.co/help/company/hiring)
 
-## Known To Have a Trial Run Hiring Process
+## Places Known to Have a Trial Run Hiring Process
 
 These companies give you a short paid project instead of requiring you to whiteboard or something similar.
 
@@ -45,16 +48,12 @@ These companies give you a short paid project instead of requiring you to whiteb
 
 Their hiring process is not documented on their site but I went through the hiring process awhile back. It was a very typical trial run process you encounter at most remote friendly companies. It was stress free, compensated well, smooth, well prepared (they already have issues set aside for candidates), and the CEO was very friendly and reachable. You are paid at your desired hourly rate and given a GitHub issue that takes about a week to finish up. You tackle the issue, make a pull request, go through a code review, and finally you push it to production. If you have done open source work you have done their process before.
 
-[MethodExists](https://news.ycombinator.com/item?id=10822828)
-
-Couldn't find any details about this company. But their HN job post mentions a paid trial.
-
 And the already mentioned;
 
 - [DuckDuckGo](https://duck.co/help/company/hiring)
 - [Automattic](https://automattic.com/work-with-us/)
 
-## Possibly Good
+## Places That are Possibly Good
 
 [Segment](https://segment.com/jobs/)
 
