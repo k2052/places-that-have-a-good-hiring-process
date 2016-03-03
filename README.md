@@ -25,10 +25,10 @@ Clef has an [open employee handbook](https://github.com/clef/handbook) and have 
 
 Buffer is the one that did the open hiring process thing long before it was cool. Even the salaries at Buffer are open. I don't know anyone at Buffer but a company that cares this much about hiring has got to be better than most.
 
-[18f](https://pages.18f.gov/joining-18f/)
-[DuckDuckGo](https://duck.co/help/company/hiring)
-[Automattic](https://automattic.com/work-with-us/)
-[Compose](https://compose.io/jobs)
+- [18f](https://pages.18f.gov/joining-18f/)
+- [DuckDuckGo](https://duck.co/help/company/hiring)
+- [Automattic](https://automattic.com/work-with-us/)
+- [Compose](https://compose.io/jobs)
 
 ## Places That are Very Remote Friendly
 
