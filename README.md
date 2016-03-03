@@ -38,7 +38,8 @@ The following companies are very remote centric. They are great for candidates n
 
 Automattic is well known for their CEO taking an active interest in hiring. Your app goes to the CEO first and then onto divisions. Few places as large as Automattic have a CEO that is their first filter in the hiring process, that sounds like a great place to work! There is a great blog post about their hiring process at http://davemart.in/2015/04/22/inside-automattics-remote-hiring-process/. The only downside is that their pay during trial runs is very minimal (only $25/hr), however you can juggle the trial project and work it into your existing schedule.
 
-[DuckDuckGo](https://duck.co/help/company/hiring)
+- [DuckDuckGo](https://duck.co/help/company/hiring)
+- [Compose](https://compose.io/jobs)
 
 ## Places Known to Have a Trial Run Hiring Process
 
